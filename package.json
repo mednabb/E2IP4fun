@@ -8,26 +8,23 @@
     "start": "next start",
     "lint": "next lint"
   },
-  "eslint": {
-    "ignoreDuringBuilds": true
-  },
   "dependencies": {
     "@supabase/supabase-js": "^2.39.0",
-    "autoprefixer": "latest",
-    "clsx": "latest",
-    "lucide-react": "latest",
-    "next": "latest",
-    "postcss": "latest",
-    "react": "latest",
-    "react-dom": "latest",
-    "tailwind-merge": "latest",
-    "tailwindcss": "latest"
+    "autoprefixer": "10.4.19",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.408.0",
+    "next": "13.5.6",
+    "postcss": "8.4.38",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "tailwind-merge": "^2.3.0",
+    "tailwindcss": "3.4.4"
   },
   "devDependencies": {
-    "@types/node": "25.9.3",
-    "@types/react": "19.2.17",
-    "eslint": "^8.57.1",
+    "@types/node": "20.14.10",
+    "@types/react": "18.3.3",
+    "eslint": "8.57.1",
     "eslint-config-next": "13.5.6",
-    "typescript": "6.0.3"
+    "typescript": "5.4.5"
   }
 }
